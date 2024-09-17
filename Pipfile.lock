@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7894fdb4153f6c916181bb0c9158d75690701b693b3e8f9de181f4ed7bf012d5"
+            "sha256": "7987916f887e05eb4d86f4601efcd665593baed0993d635a94d6c559c7be97a1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1471,7 +1471,7 @@
                 "sha256:f870204a840a60da0b12273ef34f7051e98c3b5961b61b0c2c1be6dfd64fbcd3",
                 "sha256:ffa75af20b44f8dba823498024771d5ac50620e6915abac414251bd971b4529f"
             ],
-            "markers": "python_version < '3.10'",
+            "markers": "python_version < '3.12'",
             "version": "==1.26.4"
         },
         "oauthlib": {
@@ -1509,7 +1509,8 @@
                 "sha256:ef2b1fc269cabd27f129fb9058917d6fdc89b188c49ed8700f300b945c81f889",
                 "sha256:f36b56a593b49a3c430be008c2aea6658d91a3030115729609ec1d5ffbaab1b6"
             ],
-            "version": "==1.16.3"
+            "index": "pypi",
+            "version": "==1.17.3"
         },
         "opentelemetry-api": {
             "hashes": [
